@@ -1,3 +1,3 @@
 # RTC-Relay-Android
 
-this code to controll 8 relays using RTC
+Using 2 node MCU to controll Relay with Android Firebase
